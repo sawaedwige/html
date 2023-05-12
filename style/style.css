@@ -1,0 +1,146 @@
+body{
+    margin:0;
+    padding:0;
+    margin-left:0;
+
+}
+.background{
+    position: relative;
+left: 10%;
+    width: 26cm;
+    background-color: red;
+
+}
+.x{
+    position: relative;
+top:+50px;
+left: 15%;
+}
+.dive{
+    font-family: upercase;
+    font-size: 30px!important;
+    width: 400px;
+    position: relative;
+    left: 24%;
+}
+
+.co{
+    border: 1px #ddd; width: 14cm;
+    height: 12cm;
+    background-color: red;
+    border-radius: 10px;
+    position: relative;
+    right: 9%;
+
+}
+
+.co:hover{
+
+    background-color: green;
+    box-shadow: 5px 20px 50px #000;
+}
+.cole{
+    position: relative;
+    text-align: center; font-size:25px;
+    top:+30px;
+   border:1px solid #ddd;
+   width:13cm; 
+   height:2,70cm;
+   left: 6%;
+   background-color: white;
+   border-radius: 6px;
+}
+.class{
+    margin-left: 10%;
+}
+.para{
+    position: relative;
+    padding-top: +80px;
+    text-align: center;
+    font-family: upercase;
+    font-size: 30px;color: white;
+}
+.co1{
+    border: 1px #ddd;
+     width: 14cm;
+    height:12cm;
+    background-color:yellow;
+    border-radius: 10px;
+    position: relative;
+    left:40px;
+    
+}
+.co1:hover{
+    box-shadow: 5px 20px 50px #000;
+    background-color:gold;
+}
+.img{
+    margin-left: 30%;
+}
+.btn{
+    position: relative;
+    left: 19%; width: 6cm;
+}
+.liste:hover{
+background-color: yellow;
+}
+
+.footer{
+    background-color: black; width:32cm;
+    color: white;
+    position: relative;
+   left: 1%;
+}
+html{
+    overflow-y:auto ;
+    overflow-x: hidden;
+    width: 100%;
+}
+.ul{
+list-style: none;
+position: relative;
+    left: 23%;
+}
+.padding{
+ padding-top:px;
+}
+.ml-5{
+    position: relative;
+    top: +20px
+    
+    ;
+    left: 60%;   
+}
+.type{
+    position: relative;
+    left:23%;
+    top: -20px 
+    
+}
+.for{
+    position: relative;
+    top: +10px  
+}
+.insc{
+    font-weight: 900;
+    font-family: upercase;
+}
+
+.ins{
+    font-weight: 900;
+    font-family: upercase;
+    
+}
+
+.but{
+    position: relative;
+   left: 9%;
+}
+.h2{
+
+    text-align: center;
+    font-size: 30px;
+    background-color: red; width: 26cm;height: 2cm;border-radius: 20px;
+    font-weight: 900;
+    font-family: upercase;
+}

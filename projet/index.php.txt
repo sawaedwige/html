@@ -1,0 +1,35 @@
+<p>ufr/sds<p>
+<p>inscription<p>
+
+</div>
+
+<div class="grid">
+h1 inscivez vous
+<div id="cards" class="container">
+<div class="card box">
+<form id="postform">
+input type="text" name="name" id="name" placheolder="name"> 
+
+input type="text" name="job" id="job" placheolder="prenom">
+input type="text" name="email" id="email" placheolder="email"> 
+<label for="username">Date de naissance :</label>
+<input type="Date" name="age"placheolder="Date de naissance ">
+input type="text" name="job" id="job" placheolder="date d'admission">
+
+
+input type="text" name="job" id="job" placheolder="person a prevenir">
+<select id= 'sex'>
+<option value="femal"> femal</option>
+<option value="mal"> mal</option>
+
+</select>
+<button type="submit" class="btn btn-default">
+<i class="fa fa-papper-planer-plane" aria-hidden="true></i> submit
+</button>
+</form>
+<div id="formdata" class="card box" style="display:none;"></div>
+</div>
+</div>
+</section>
+
+
